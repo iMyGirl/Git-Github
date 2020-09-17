@@ -39,7 +39,7 @@ touch Readme
 ```
 5. 提交（对刚刚的更改进行提交）
 ```
-git add README # 添加索引
+git add README.md # 添加索引
 
 git commit -m "some_message" # 提交改动 ；  “some_message” 在上面的命令里可以是一些简单的信息如“我的第一次提交”或者“ 编辑了readme 文件”，等等
 
