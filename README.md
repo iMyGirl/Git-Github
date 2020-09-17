@@ -31,7 +31,7 @@ git init
 ```  
 4. 新建一个 README 文件来描述仓库
 ```
-gedit README
+gedit README.md
 ```
 或
 ```
