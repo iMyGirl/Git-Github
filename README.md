@@ -52,9 +52,17 @@ git remote add origin https://github.com/你的github用户名/你的github仓�
 ```
 git push origin master
 ```  
+## - 常见问题              --参考文献[4]-[8]  
+  
+  
 ### 参考文献：  
 [1]: [Git – 如何验证Ubuntu上是否安装Git以及在何处安装Git](https://ubuntuqa.com/article/7017.html)  
 [2]: [初学者指南：在Ubuntu上安装和使用Git和GitHub](https://zhuanlan.zhihu.com/p/44181150)  
-[3]: [如何在ubuntu下使用Github？](https://blog.csdn.net/tina_ttl/article/details/51326684)
+[3]: [如何在ubuntu下使用Github？](https://blog.csdn.net/tina_ttl/article/details/51326684)  
+[4]: [github常见操作和常见错误！错误提示：fatal: remote origin already exists.](https://blog.csdn.net/dengjianqiang2011/article/details/9260435)  
+[5]: [解除GitHub上传文件大小限制](https://www.jianshu.com/p/9ddf90864c89)  
+[6]: [github上传“大”文件（25MB以上，100MB以下）](https://blog.csdn.net/AshleyXM/article/details/104766893)  
+[7]: [[Git & GitHub] 解决办法：error: failed to push some refs to 'https://github.com/xxxx.git'](https://blog.csdn.net/dietime1943/article/details/79398771)  
+[8]: [git pull origin master与git pull --rebase origin master的区别](https://www.cnblogs.com/ellen-mylife/p/12794245.html)
 
 
