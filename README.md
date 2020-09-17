@@ -52,7 +52,7 @@ git remote add origin https://github.com/你的github用户名/你的github仓�
 ```
 git push origin master
 ```  
-# 参考文献：  
+### 参考文献：  
 [1]: [Git – 如何验证Ubuntu上是否安装Git以及在何处安装Git](https://ubuntuqa.com/article/7017.html)  
 [2]: [初学者指南：在Ubuntu上安装和使用Git和GitHub](https://zhuanlan.zhihu.com/p/44181150)  
 [3]: [如何在ubuntu下使用Github？](https://blog.csdn.net/tina_ttl/article/details/51326684)
