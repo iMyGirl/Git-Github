@@ -2,7 +2,7 @@ This is a git repo
 
 
 ## – 如何验证Ubuntu上是否安装Git以及在何处安装Git  
-参见[文献][1]  
+参见[文献] 
 ```
 git --version
 ```
@@ -53,6 +53,6 @@ git remote add origin https://github.com/你的github用户名/你的github仓�
 git push origin master
 ```  
 # 参考文献：  
-[1]: [](https://ubuntuqa.com/article/7017.html)
+[1]:[Git – 如何验证Ubuntu上是否安装Git以及在何处安装Git](https://ubuntuqa.com/article/7017.html)
 
 
