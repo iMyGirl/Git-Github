@@ -63,6 +63,8 @@ git push origin master
 [5]: [解除GitHub上传文件大小限制](https://www.jianshu.com/p/9ddf90864c89)  
 [6]: [github上传“大”文件（25MB以上，100MB以下）](https://blog.csdn.net/AshleyXM/article/details/104766893)  
 [7]: [[Git & GitHub] 解决办法：error: failed to push some refs to 'https://github.com/xxxx.git'](https://blog.csdn.net/dietime1943/article/details/79398771)  
-[8]: [git pull origin master与git pull --rebase origin master的区别](https://www.cnblogs.com/ellen-mylife/p/12794245.html)
+[8]: [git pull origin master与git pull --rebase origin master的区别](https://www.cnblogs.com/ellen-mylife/p/12794245.html)  
+[9]: [如何重命名Github（Web）中的目录/文件夹？(How to rename a directory/folder in Github(Web)?)](https://www.it1352.com/800293.html)  
+[10]: [怎么更改github的某个项目在本地的同步目录](https://www.oschina.net/question/818505_122066)
 
 
