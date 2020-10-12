@@ -73,6 +73,6 @@ git clone url
 [8]: [git pull origin master与git pull --rebase origin master的区别](https://www.cnblogs.com/ellen-mylife/p/12794245.html)  
 [9]: [如何重命名Github（Web）中的目录/文件夹？(How to rename a directory/folder in Github(Web)?)](https://www.it1352.com/800293.html)  
 [10]: [怎么更改github的某个项目在本地的同步目录](https://www.oschina.net/question/818505_122066)  
-[11]: [ 执行git push出现"Everything up-to-date"](https://www.cnblogs.com/kevingrace/p/6259905.html)  
-[12][git 下载代码到本地](https://blog.csdn.net/ywl570717586/article/details/79015284)
+[11]: [执行git push出现"Everything up-to-date"](https://www.cnblogs.com/kevingrace/p/6259905.html)  
+[12]: [git 下载代码到本地](https://blog.csdn.net/ywl570717586/article/details/79015284)
 
