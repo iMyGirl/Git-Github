@@ -61,7 +61,8 @@ git clone url
   
 ## - 常见问题              --参考文献[4]-[11]  
   
-  
+## -如何选用开源协议       --参考文献[13]   
+ 
 ### 参考文献：  
 [1]: [Git – 如何验证Ubuntu上是否安装Git以及在何处安装Git](https://ubuntuqa.com/article/7017.html)  
 [2]: [初学者指南：在Ubuntu上安装和使用Git和GitHub](https://zhuanlan.zhihu.com/p/44181150)  
@@ -74,5 +75,6 @@ git clone url
 [9]: [如何重命名Github（Web）中的目录/文件夹？(How to rename a directory/folder in Github(Web)?)](https://www.it1352.com/800293.html)  
 [10]: [怎么更改github的某个项目在本地的同步目录](https://www.oschina.net/question/818505_122066)  
 [11]: [执行git push出现"Everything up-to-date"](https://www.cnblogs.com/kevingrace/p/6259905.html)  
-[12]: [git 下载代码到本地](https://blog.csdn.net/ywl570717586/article/details/79015284)
+[12]: [git 下载代码到本地](https://blog.csdn.net/ywl570717586/article/details/79015284)  
+[13]: [如何选择开源许可证？](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
