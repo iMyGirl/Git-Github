@@ -67,7 +67,7 @@ sudo apt-get remove git
 ```
 sudo apt autoremove git
 ```
-之後，使用aot-get可重裝：
+之後，使用apt-get可重裝：
 ```
 sudo apt-get install git
 ```
