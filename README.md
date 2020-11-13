@@ -46,8 +46,12 @@ git commit -m "some_message" # 提交改动 ；  “some_message” 在上面的
 ```  
 6. 链接github上的仓库  
 ```
-git remote add origin https://github.com/你的github用户名/你的github仓库.git  
-```  
+git remote add origin https://github.com/你的github用户名/你的github仓库.git   
+```    
+若移除鏈接，則如下操作：  
+```
+git remote rm origin
+```
 7. 将本地仓库里的文件推送到 GitHub 仓库（push)  
 ```
 git push origin master
