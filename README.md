@@ -58,7 +58,7 @@ git push origin master
 git clone url
 ```  
    
-## 卸載（重裝）git
+## - 卸載（重裝）git
 ```
 sudo apt-get remove git
 ```
@@ -76,7 +76,7 @@ sudo apt-get install git
   
 ## - 常见问题              --参考文献[4]-[11]  
   
-## -如何选用开源协议       --参考文献[13]   
+## - 如何选用开源协议       --参考文献[13]   
  
 ### 参考文献：  
 [1]: [Git – 如何验证Ubuntu上是否安装Git以及在何处安装Git](https://ubuntuqa.com/article/7017.html)  
