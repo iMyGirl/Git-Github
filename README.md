@@ -57,7 +57,22 @@ git push origin master
 ```
 git clone url
 ```  
-  
+   
+## 卸載（重裝）git
+```
+sudo apt-get remove git
+```
+可參見[ubuntu git 卸载](https://blog.csdn.net/lmqwudi/article/details/22192591)  
+但若已無git包（未將git的依賴包卸載）,無法將其以來項卸載，會導致無法重裝git，可用以下方法：
+```
+sudo apt autoremove git
+```
+之後，使用aot-get可重裝：
+```
+sudo apt-get install git
+```
+
+ 
   
 ## - 常见问题              --参考文献[4]-[11]  
   
